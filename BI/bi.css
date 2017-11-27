@@ -63,6 +63,7 @@ body {
      font-weight: 400;
      letter-spacing: 0.1em;
      font-family: Lobster;
+     overflow: hidden;
 
 }
 
@@ -84,6 +85,7 @@ body {
 .second {
     background-color: #f4a201 ;
      height: 350px;
+     overflow: hidden;
 
 }
 
@@ -155,7 +157,7 @@ a:link, a:visited {
  color: white;
  padding-top: 60px;
  border-top: solid #f4a201 3px;
-
+ overflow: hidden;
 
 }
 
@@ -288,7 +290,7 @@ margin-right: auto;
    background: #f4a201;
  
   padding: 25px;
-  margin: 150px 0;
+  margin: 150px 100px;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
 }
 
