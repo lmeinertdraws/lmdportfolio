@@ -60,7 +60,7 @@ function typeLoop() {
   loopTimer = setTimeout("typeLoop()", 70);
 };
 
-setInterval(typeLoop, 2000);
+setInterval(typeLoop, 1500);
 
 var typing2 = "Let's get to work";
 var typingArray2 = typing2.split("");
@@ -75,7 +75,7 @@ function typeLoop2() {
   loopTimer2 = setTimeout("typeLoop2()", 70);
 };
 
-setInterval(typeLoop2, 5000);
+setInterval(typeLoop2, 3000);
 
 
 
